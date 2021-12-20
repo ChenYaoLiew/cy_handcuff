@@ -8,3 +8,8 @@ server_scripts {
 client_scripts {
     'client/client.lua'
 }
+
+dependencies {
+    'mythic_notify',
+    'mythic_progbar'
+}
